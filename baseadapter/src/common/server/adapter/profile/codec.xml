@@ -24,6 +24,5 @@
 	
 	<bean id = "codec6"  class = "com.nm.server.adapter.codec.CoDecFrameCESMPE">
 	</bean>		
-	<bean id = "codec7"  class = "com.nm.server.adapter.codec.CoDecFrameCESMPE">
-	</bean>
+
 </beans>
