@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="var" path="LIB_PATH/common/descriptor.jar" sourcepath="/LIB_Source/common/descriptor"/>
+	<classpathentry kind="var" path="LIB_PATH/common/nmm.jar" sourcepath="LIB_PATH/common/nmm.jar"/>
+	<classpathentry kind="var" path="LIB_PATH/extern/commons-logging.jar"/>
+	<classpathentry kind="var" path="LIB_PATH/common/message.jar"/>
+	<classpathentry kind="var" path="LIB_PATH/common/mpls.jar" sourcepath="/LIB_Source/common/mpls"/>
+	<classpathentry kind="var" path="LIB_PATH/common/commsvr.jar" sourcepath="/LIB_PATH"/>
+	<classpathentry kind="var" path="LIB_PATH/adapter/baseAdapter.jar"/>
+	<classpathentry kind="var" path="LIB_PATH/extern/javax.persistence_2.0.3.v201010191057.jar"/>
+	<classpathentry kind="var" path="LIB_PATH/common/comsvr.jar" sourcepath="/LIB_Source/server/common/comsvr"/>
+	<classpathentry kind="var" path="LIB_PATH/extern/org.springframework.context-3.1.0.M1.jar"/>
+	<classpathentry kind="var" path="LIB_PATH/extern/org.springframework.core-3.1.0.M1.jar"/>
+	<classpathentry kind="var" path="LIB_PATH/extern/eclipselink.jar"/>
+	<classpathentry kind="var" path="LIB_PATH/config/common/toposvr.jar"/>
+	<classpathentry kind="var" path="LIB_PATH/extern/snmp4j.jar"/>
+	<classpathentry kind="var" path="LIB_PATH/extern/org.springframework.beans-3.1.0.M1.jar"/>
+	<classpathentry kind="var" path="LIB_PATH/extern/commons-lang.jar"/>
+	<classpathentry kind="var" path="LIB_PATH/common/error.jar" sourcepath="/LIB_Source/common/error"/>
+	<classpathentry kind="var" path="LIB_PATH/common/base.jar"/>
+	<classpathentry kind="var" path="LIB_PATH/config/common/configsvr.jar"/>
+	<classpathentry kind="var" path="LIB_PATH/common/mstp.jar"/>
+	<classpathentry kind="var" path="LIB_PATH/common/ezxml.jar"/>
+	<classpathentry kind="var" path="LIB_PATH/extern/jms.jar"/>
+	<classpathentry kind="var" path="LIB_PATH/extern/commons-net-2.2.jar"/>
+	<classpathentry kind="var" path="LIB_PATH/extern/mibble-mibs-2.5.jar"/>
+	<classpathentry kind="var" path="LIB_PATH/extern/mibble-parser-2.5.jar"/>
+	<classpathentry kind="var" path="LIB_PATH/config/common/mplsconfigsvr.jar"/>
+	<classpathentry kind="var" path="LIB_PATH/extern/syslog4j-0.9.46.jar"/>
+	<classpathentry kind="var" path="LIB_PATH/extern/org.springframework.transaction-3.1.0.M1.jar"/>
+	<classpathentry kind="var" path="LIB_PATH/extern/org.springframework.orm-3.1.0.M1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
