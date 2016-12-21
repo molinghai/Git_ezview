@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Dec 14 11:01:39 CST 2011
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=D\:\\EzView\\\u4E3B\u89C6\u56FE\\release\\server\\lib\\adapter\\baseAdapter.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=<jar|eclipselink.jar>;<jar|javax.persistence_2.0.3.v201010191057.jar>
+includes=
