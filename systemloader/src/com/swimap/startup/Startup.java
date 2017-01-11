@@ -5,6 +5,7 @@ import java.lang.reflect.Method;
 import javax.swing.ImageIcon;
 import javax.swing.SwingUtilities;
 
+/*入口*/
 public class Startup {
 	private static boolean isSplashScreenShown = false;
 
